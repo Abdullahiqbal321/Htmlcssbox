@@ -1,0 +1,19 @@
+
+.box1{
+    box-sizing: border-box;
+    width: 500px;
+    background-color: blue;
+    border: 10px solid red;
+    padding: 30px;
+    margin-bottom: 10px;
+}
+
+.box2{
+
+box-sizing: border-box;
+    width: 500px;
+    background-color:blue ;
+    border:10px solid red;
+    padding: 30px;
+    margin-bottom: 10px;
+}
